@@ -1,1 +1,2 @@
 https://capgemini.udemy.com/course/angular-tutorial/learn/lecture/11470370#overview
+customer main project - https://github.com/SHULBHIGUPTA/customer_angular_1_project.git
