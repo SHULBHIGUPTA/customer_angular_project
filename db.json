@@ -1,0 +1,106 @@
+{
+  "Customers": [
+    {
+      "id": 1,
+      "CustomerCode": "1001",
+      "CustomerName": "Shul",
+      "CustomerAmount": "100.23"
+    },
+    {
+      "CustomerCode": "1234",
+      "CustomerName": "hbnn",
+      "CustomerAmount": "89",
+      "id": 2
+    },
+    {
+      "CustomerCode": "1234",
+      "CustomerName": "hbnn",
+      "CustomerAmount": "89",
+      "id": 3
+    },
+    {
+      "CustomerCode": "1234",
+      "CustomerName": "nkkk",
+      "CustomerAmount": "124563",
+      "id": 4
+    },
+    {
+      "CustomerCode": "1234",
+      "CustomerName": "nkkk",
+      "CustomerAmount": "124563",
+      "id": 5
+    },
+    {
+      "CustomerCode": "1234",
+      "CustomerName": "nkkk",
+      "CustomerAmount": "124563",
+      "id": 6
+    },
+    {
+      "CustomerCode": "1234",
+      "CustomerName": "nkkk",
+      "CustomerAmount": "124563",
+      "id": 7
+    },
+    {
+      "CustomerCode": "1234",
+      "CustomerName": "nkkk",
+      "CustomerAmount": "124563",
+      "id": 8
+    },
+    {
+      "CustomerCode": "1234",
+      "CustomerName": "nkkk",
+      "CustomerAmount": "124563",
+      "id": 9
+    },
+    {
+      "CustomerCode": "1234",
+      "CustomerName": "nkkk",
+      "CustomerAmount": "124563",
+      "id": 10
+    },
+    {
+      "CustomerCode": "1234",
+      "CustomerName": "nkkk",
+      "CustomerAmount": "124563",
+      "id": 11
+    },
+    {
+      "CustomerCode": "",
+      "CustomerName": "",
+      "CustomerAmount": 0,
+      "id": 12
+    },
+    {
+      "CustomerCode": "1234",
+      "CustomerName": "hbnj",
+      "CustomerAmount": 0,
+      "id": 13
+    },
+    {
+      "CustomerCode": "1234",
+      "CustomerName": "hbnj",
+      "CustomerAmount": 0,
+      "id": 14
+    },
+    {
+      "CustomerCode": "1234",
+      "CustomerName": "kjnjn",
+      "CustomerAmount": "456",
+      "id": 15
+    },
+    {
+      "CustomerCode": "",
+      "CustomerName": "",
+      "CustomerAmount": 0,
+      "id": 16
+    },
+    {
+      "CustomerCode": "",
+      "CustomerName": "",
+      "CustomerAmount": 0,
+      "id": 17
+    }
+  ]
+}

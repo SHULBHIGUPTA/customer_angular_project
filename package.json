@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/http": "^7.2.16",
+    "karma-angular": "^0.0.6"
+  }
+}
